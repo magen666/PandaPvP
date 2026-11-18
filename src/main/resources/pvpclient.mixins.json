@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.panda.pvpclient.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityMixin", "BlockMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
